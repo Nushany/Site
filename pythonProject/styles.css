@@ -1,0 +1,32 @@
+body {
+    background: plum;
+}
+
+h1 {
+    background:red;
+}
+
+.paragraph-1 {
+    background: yellow;
+    font-size: 32pt;
+    color: green
+}
+.paragraph-2 {
+    border:10px solid yellow;
+    border-radius: 10px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22px;
+    font-fanily: Courier New;
+}
+.paragraph-4 {
+    font-style: oblique;
+    text-align: center;
+    font-size: 24px;
+    text-shadow: 4px 5px 2px green;
+}
